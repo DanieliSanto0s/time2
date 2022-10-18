@@ -4,7 +4,7 @@ $valor = $_POST['Pnum'];
 $Segvalor = $_POST['Snum'];
 $calculo = $valor + $Segvalor;
 
-echo "a soma dos dois valores será: " . $calculo ;
+echo "a soma dos dois valores selecionados será: " . $calculo ;
 
 
 
